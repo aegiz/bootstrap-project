@@ -1,0 +1,25 @@
+{
+  "name": "Sleekapp",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tigerlily/sleekapp",
+  "description": "Sleek Website",
+  "keywords": [
+    "sleek"
+  ],
+  "authors": [
+    "Mathieu Fosse"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "~2.1.3",
+    "firebase": "~2.3.1"
+  }
+}
