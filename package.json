@@ -1,24 +1,26 @@
 {
-  "name": "dataviz-liberation",
+  "name": "bootstrap-project",
   "version": "1.0.0",
-  "description": "Test",
+  "description": "My bootstrap to start a project easily",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aegiz/dataviz-liberation.git"
+    "url": "https://github.com/aegiz/bootstrap-project"
   },
   "keywords": [
-    "dataviz"
+    "bootstrap",
+    "Gulp",
+    "Bower"
   ],
   "author": "Adrien Rahier",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aegiz/dataviz-liberation/issues"
+    "url": "https://github.com/aegiz/bootstrap-project/issues"
   },
-  "homepage": "https://github.com/aegiz/dataviz-liberation",
+  "homepage": "https://github.com/aegiz/bootstrap-project",
   "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-autoprefixer": "^2.1.0",
