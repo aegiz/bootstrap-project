@@ -1,11 +1,15 @@
 ## Setup
 
-To start the project run the following command :
+To start a new project:
+
+1- Clone this project and reorganize your files to fit into the /src folder.
+2- Run the following commands in the root of the project:
 
 ```
 $ npm install
 $ bower install
-$ gulp // launch gulp (will be run by default on 8042 port)
+$ gulp build
+$ gulp
 ```
 
-Then save your HTML + JS + SASS files once and go to http://localhost:8000/ you should be all set.
+When you run the second gulp command a server is started http://localhost:8000/.
