@@ -98,7 +98,7 @@ gulp.task('watch', function () {
   gulp.watch(config.sass.src + '/**/*.scss', ['sass']);
   gulp.watch(config.js.src + '/**/*.js', ['javascript']);
   gulp.watch(config.html.src + '/**/*.html', ['html']);
-  gulp.watch(config.images.src + '/**/*', ['images', 'svg']);
+  gulp.watch(config.images.src + '/**/*', ['images']);
 });
 
 
