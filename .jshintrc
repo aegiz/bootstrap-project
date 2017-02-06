@@ -1,0 +1,8 @@
+{
+  "curly": true,
+  "browser": true,
+  "eqeqeq": true,
+  "undef": true,
+  "globalstrict": true,
+  "globals": {"console": true, "$": false}
+}
