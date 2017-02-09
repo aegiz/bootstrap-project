@@ -1,3 +1,22 @@
+@charset "UTF-8";
+
+@import "_variables.scss";
+@import "_fonts.scss";
+@import "_mixins.scss";
+
+@import "_reset.scss";
+@import "_mquery.scss";
+
+// Import here the code of the page..
+//@import "_yourcode.scss";
+
 p {
-	text-decoration: underline;
+	color: red;
+}
+
+div {
+	width: 640px;
+	height: 640px;
+	background: url("../images/dragon.jpg") no-repeat;
+	background-size: cover;
 }
